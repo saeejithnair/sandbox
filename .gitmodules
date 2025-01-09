@@ -1,0 +1,3 @@
+[submodule "third-party/nanoGPT"]
+	path = third-party/nanoGPT
+	url = git@github.com:saeejithnair/nanoGPT.git
